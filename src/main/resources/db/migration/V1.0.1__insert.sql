@@ -1,3 +1,3 @@
-INSERT INTO GITHUB_PROJECT(org_name,repo_name) VALUES ('com.hb','xavier');
-INSERT INTO GITHUB_PROJECT(org_name,repo_name) VALUES ('com.hb','forte');
-INSERT INTO GITHUB_PROJECT(org_name,repo_name) VALUES ('com.hb','jervis');
+INSERT INTO GITHUB_PROJECT (ORG_NAME, REPO_NAME) VALUES ('spring-projects', 'spring-boot');
+INSERT INTO GITHUB_PROJECT (ORG_NAME, REPO_NAME) VALUES ('spring-io', 'initializers');
+INSERT INTO GITHUB_PROJECT (ORG_NAME, REPO_NAME) VALUES ('spring-io', 'spring-cloud');

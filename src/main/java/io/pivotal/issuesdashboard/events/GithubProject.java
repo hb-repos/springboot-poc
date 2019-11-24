@@ -10,6 +10,8 @@ import javax.persistence.Id;
 
 @Entity
 public class GithubProject implements Serializable {
+	
+	private static final long serialVersionUID = -4667786244993632168L;
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
